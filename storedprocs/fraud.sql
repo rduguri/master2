@@ -1,4 +1,4 @@
-/*this is an experiment*/
+/*this is a code*/
 
 CREATE OR REPLACE PROCEDURE `gcp-bia-mle-dev.UPSC_DITK.RTSExpCC_sp_01_Excp_forFraudRerouteRTSAddrScan`()
 BEGIN
