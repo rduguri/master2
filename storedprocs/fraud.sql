@@ -1,4 +1,4 @@
-/*this is a code experiment with the sap code */
+/*this is a code experiment with the sap modified code */
 
 CREATE OR REPLACE PROCEDURE `gcp-bia-mle-dev.UPSC_DITK.RTSExpCC_sp_01_Excp_forFraudRerouteRTSAddrScan`()
 BEGIN
